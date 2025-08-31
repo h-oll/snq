@@ -1,0 +1,91 @@
+#+title:      Strategie Nationale Quantique
+#+date:       [2025-06-21 Sat 18:34]
+#+filetags:   :org:snq:
+#+identifier: 20250621T183427
+#+category: snq
+
+* SNQ                                                                   :org:
+:PROPERTIES:
+:ID:       b328b348-ea44-4bf9-8a2a-cd290fcdd195
+:END:
+:BACKLINKS:
+[2025-05-17 Sat 08:18] <- [[id:f85b2b2e-f376-4f89-8fc4-6b00eb1fa83a][Coordination]]
+:END:
+** Notes
+*** [2025-06-06 Fri] Reunion de la stratégie quantique
+:LOGBOOK:
+CLOCK: [2025-06-06 Fri 09:30]--[2025-06-06 Fri 13:00] =>  3:30
+:END:
+**** P Bonnet
+Retour sur les contributions
+
+**** O Gorceix
+Réseaux quantiques
+
+**** Cryonext
+Arret cryoconcept, perturbe le projet P4.
+
+**** Proqcima
+Commission ANR pour l'appui technique aux pahses de selection. Partage des crit`eres  et  lien avec QLoop
+
+Annonce ministere des armees France Quantum + Presence Vivatec
+
+**** FRance quantum
+Grosse delegation allemande
+
+**** HQI
+Acces aux machines pour de l'asynchrone externe au TGCC
+
+**** PEPR
+Mutualisation de Cryostats par iXBlue
+*** [2024-09-27 Fri 09:15-12:30] Réunion programme quantique SGPI
+:PROPERTIES:
+:org-gcal-managed: org
+:calendar-id: harold.ollivier@gmail.com
+:ETag:     "3449646762866000"
+:entry-id: tmvdofd7do0lgbbmvo7m9nqjfs/harold.ollivier@gmail.com
+:ID:       5064fe07-4457-4b41-bd1b-f0f1ce04001f
+:END:
+:org-gcal:
+<2024-09-27 Fri 09:15-12:30>
+:END:
+[[gnus:nnimap+research:INBOX#87cylt442i.fsf@totally-fudged-out-message-id][Email from SGPI Quantique Info: Réunion de synchronisation des programmes de la stratégie quantique]]
+*** [2025-04-04 Fri] Réunion SNQ
+:LOGBOOK:
+CLOCK: [2025-04-04 Fri 09:00]--[2025-04-04 Fri 13:23] =>  4:23
+CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
+:END:
+**** Cryonext
+**** Proxima
+- Comité ANR pour faire critères techniques de fin de phase
+- Pas d'écart ni pb anticipé sur les livrables
+- 90M budgété, 58M engagés
+- Compatibilité participation phase A Darpa -- A&B accompagnement par DGA. QBI.
+- Test et evaluation 1G sur 5 ans (Darpa) sans parler de QBI particulièrement
+**** ASIS
+- 28SiH_4: 1.5M / kg
+**** QLoop
+- Quandela: alignement roadmap pertinent, mais mise en standby. Dépendance sur choix archi faits chez eux
+- IQM: timing pas clair / welcome
+- IBM:
+  - investissement cryo CMPS IBM controle coupleurs
+  - volonté install 127 qubits sur fr
+  - Regarder Ryken
+**** Metirqs
+- Mocqua : metro composants HW pour etat solide: spec et characterisation avec des paramètres fiables
+- Question sur normalisation / participation INRIA
+*************** Sollicitation experts sur normalisation 
+:PROPERTIES:
+:ID:       c888ee73-a330-44b6-81c4-721636c237fe
+:END:
+*************** END
+- EQCBC: european qc bench committee
+**** Quantixium
+- Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
+** Errands
+*** DNE [#A] Appeler Neil a/s Mike Vasmer
+CLOSED: [2024-06-03 Mon 07:21]
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-10-27 Sun 22:24
+:ID:       ba0f8c9e-5e89-4495-9d15-c347dae2c44b
+:END:
