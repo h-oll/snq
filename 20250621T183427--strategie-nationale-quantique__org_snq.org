@@ -4,9 +4,13 @@
 #+identifier: 20250621T183427
 #+category: snq
 
-* SNQ                                                                   :org:
+* DVL SNQ                                                               :org:
 :PROPERTIES:
 :ID:       b328b348-ea44-4bf9-8a2a-cd290fcdd195
+:END:
+:LOGBOOK:
+- State "DVL"        from "TDO"        [2025-08-31 Sun 23:22]
+- State "PLN"        from              [2025-08-31 Sun 23:22]
 :END:
 :BACKLINKS:
 [2025-05-17 Sat 08:18] <- [[id:f85b2b2e-f376-4f89-8fc4-6b00eb1fa83a][Coordination]]
