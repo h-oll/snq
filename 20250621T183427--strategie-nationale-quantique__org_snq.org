@@ -4,11 +4,12 @@
 #+identifier: 20250621T183427
 #+category: snq
 
-* DVL SNQ                                                               :org:
+* WTC [#C] SNQ                                                          :org:
 :PROPERTIES:
 :ID:       b328b348-ea44-4bf9-8a2a-cd290fcdd195
 :END:
 :LOGBOOK:
+- State "WTC"        from "DVL"        [2025-08-31 Sun 23:43]
 - State "DVL"        from "TDO"        [2025-08-31 Sun 23:22]
 - State "PLN"        from              [2025-08-31 Sun 23:22]
 :END:
