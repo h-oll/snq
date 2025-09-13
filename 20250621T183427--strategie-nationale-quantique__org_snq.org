@@ -91,6 +91,70 @@ CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
 **** Quantixium
 - Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
 ** Agenda
+*** PLN [#A] relire les notes des journees (PEPR, HQI)
+:LOGBOOK:
+- State "PLN"        from              [2025-09-13 Sat 20:29]
+:END:
+**** Types to ensure compiler is not breaking the things in "on chip" verification protocol.
+:PROPERTIES:
+:ID:       9cb0f3e8-d6d4-40dc-9705-58d8cca437f1
+:END:
+[[file:~/org/armarium/20000101T000000--magister.org::*WP6 focus: verification on real quantum devices][WP6 focus: verification on real quantum devices]]
+**** general error cancellation
+:PROPERTIES:
+:ID:       c1fa3322-fba5-45a6-990e-a28a44db089d
+:END:
+[[file:~/org/armarium/20000101T000000--magister.org::*WP5][WP5]]
+#+begin_quote:
+Randomizeed Error Cancellation 2507.06601 cite:KSST25quantum
+#+end_quote
+**** Restart thinking about distributed computation using quantum computers
+:PROPERTIES:
+:ID:       c8d3a412-3551-4afa-bfdb-9a7e15c9e493
+:END:
+Using GHZ states and correlations.
+
+[[file:~/org/armarium/20000101T000000--magister.org::*WP6][WP6]]
+**** How to use error correctin in a smart way 
+:PROPERTIES:
+:ID:       ffe2eefc-dc96-4d10-b9d5-e4c734f499d7
+:END:
+[[id:c9737130-e1b9-4cb0-8c49-dd55bd4a2b20][WP5 Focus: eFTQC]]
+#+begin_quote:
+2407.06583: smart idea , cite:DT24low
+#+end_quote
+**** Look at the global Randomized error cancellation
+:PROPERTIES:
+:ID:       663011d4-21fa-4a67-b86e-c211658a959a
+:END:
+[[file:~/org/armarium/20000101T000000--magister.org::*WP5][WP5]]
+**** Availability of prototypes that were not described in hte initial descriptionof the WP.
+:PROPERTIES:
+:ID:       f4bb8315-7eae-403f-86a5-1735da51144b
+:END:
+[[file:~/org/armarium/20000101T000000--magister.org::*WP2][WP2]]
+**** Look into this Pauli operator technique
+:PROPERTIES:
+:ID:       db91d4e5-b12f-4daa-8e73-184e43141160
+:END:
+[[file:~/org/armarium/20000101T000000--magister.org::*WP1 Focus: Large scale emulation][WP1 Focus: Large scale emulation]]
+**** Jad Issa: 2311.05801 / 2408.03121
+:PROPERTIES:
+:ID:       bc548bdb-bc1f-4ece-a85d-f71c75494d1b
+:END:
+**** Questions et idées issues de l'atelier
+***** Projets HW + SW
+=> Donc on pourrait généraliser cela lorsqu'on parle d'infrastructure et de service à un tiers. Nécessité d'avoir des projets qui permettent d'inclure le software
+
+[[id:42bf3b42-0062-4f1c-bb30-3e2b65da56f6][Partie 2 organisation / fonctionnement]]
+
+
+***** Outils nécessaires pour la scalabilité et la tester. Se lie au benchmark. 
+
+[[id:42bf3b42-0062-4f1c-bb30-3e2b65da56f6][Partie 2 organisation / fonctionnement]]
+
+possibilité de réfléchir à comment fournir la scalabilité et la tester.
+
 *** TDO [#B] Lancer la repo pour la roadmap
 :LOGBOOK:
 - State "TDO"        from "PLN"        [2025-09-13 Sat 18:16]
