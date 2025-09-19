@@ -16,9 +16,6 @@
 - State "DVL"        from "TDO"        [2025-08-31 Sun 23:22]
 - State "PLN"        from              [2025-08-31 Sun 23:22]
 :END:
-:BACKLINKS:
-[2025-05-17 Sat 08:18] <- [[id:f85b2b2e-f376-4f89-8fc4-6b00eb1fa83a][Coordination]]
-:END:
 ** Memoranda
 *** [2025-06-06 Fri] Reunion de la stratégie quantique
 :LOGBOOK:
@@ -91,8 +88,16 @@ CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
 **** Quantixium
 - Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
 ** Agenda
-*** PLN [#A] relire les notes des journees (PEPR, HQI)
+*** WTC [#B] Launch the Software roadmap work
 :LOGBOOK:
+- State "WTC"        from "TDO"        [2025-09-19 Fri 12:36]
+- State "PLN"        from              [2025-09-13 Sat 16:42]
+:END:
+[[denote:20250912T101104][hiq-synergy-roadmap]]
+
+*** TDO [#B] relire les notes des journees (PEPR, HQI)
+:LOGBOOK:
+- State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
 - State "PLN"        from              [2025-09-13 Sat 20:29]
 :END:
 **** Types to ensure compiler is not breaking the things in "on chip" verification protocol.
@@ -155,11 +160,6 @@ Using GHZ states and correlations.
 
 possibilité de réfléchir à comment fournir la scalabilité et la tester.
 
-*** TDO [#B] Lancer la repo pour la roadmap
-:LOGBOOK:
-- State "TDO"        from "PLN"        [2025-09-13 Sat 18:16]
-- State "PLN"        from              [2025-09-13 Sat 18:16]
-:END:
 *** DNE [#A] Appeler Neil a/s Mike Vasmer
 CLOSED: [2024-06-03 Mon 07:21]
 :PROPERTIES:
