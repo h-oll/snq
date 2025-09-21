@@ -17,6 +17,14 @@
 - State "PLN"        from              [2025-08-31 Sun 23:22]
 :END:
 ** Memoranda
+*** DVL [#B] Challenges and Roadmap for Quantum Information Processing Software and Algorithms
+:LOGBOOK:
+- State "DVL"        from "TDO"        [2025-09-21 Sun 09:12]
+- State "TDO"        from "PLN"        [2025-09-21 Sun 09:12]
+- State "PLN"        from              [2025-09-21 Sun 09:11]
+:END:
+**** Ideas
+[[id:49502a4f-fb85-42f8-8393-3af28ecb3250][[2025-09-02 Tue] Présentation NISQ2LSQ]]
 *** [2025-06-06 Fri] Reunion de la stratégie quantique
 :LOGBOOK:
 CLOCK: [2025-06-06 Fri 09:30]--[2025-06-06 Fri 13:00] =>  3:30
