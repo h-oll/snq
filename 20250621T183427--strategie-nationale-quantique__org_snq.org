@@ -139,6 +139,7 @@ Randomizeed Error Cancellation 2507.06601 cite:KSST25quantum
 :ID:       bc548bdb-bc1f-4ece-a85d-f71c75494d1b
 :END:
 Jad Issa: 2311.05801 / 2408.03121
+[[id:a63a2e50-aed0-40d6-910c-c2938c37d6c0][WP2 Focus]]
 **** Questions et idées issues de l'atelier
 ***** Projets HW + SW
 => Donc on pourrait généraliser cela lorsqu'on parle d'infrastructure et de service à un tiers. Nécessité d'avoir des projets qui permettent d'inclure le software
