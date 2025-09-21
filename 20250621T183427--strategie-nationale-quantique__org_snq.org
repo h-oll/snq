@@ -140,13 +140,6 @@ possibilité de réfléchir à comment fournir la scalabilité et la tester.
 - State "PLN"        from              [2025-09-13 Sat 16:42]
 :END:
 [[denote:20250912T101104][hiq-synergy-roadmap]]
-*** DNE [#B] relire les notes des journees (PEPR, HQI)
-CLOSED: [2025-09-21 Sun 10:47]
-:LOGBOOK:
-- State "DNE"        from "TDO"        [2025-09-21 Sun 10:47]
-- State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
-- State "PLN"        from              [2025-09-13 Sat 20:29]
-:END:
 *** (xv)                                                          :ARCHIVE:
 **** PLN lire les slides de EPIQ
 :PROPERTIES:
@@ -154,4 +147,14 @@ CLOSED: [2025-09-21 Sun 10:47]
 :END:
 :LOGBOOK:
 - State "PLN"        from "TDO"        [2025-09-19 Fri 11:00]
+:END:
+**** DNE [#B] relire les notes des journees (PEPR, HQI)
+CLOSED: [2025-09-21 Sun 10:47]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-21 Sun 10:47
+:END:
+:LOGBOOK:
+- State "DNE"        from "TDO"        [2025-09-21 Sun 10:47]
+- State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
+- State "PLN"        from              [2025-09-13 Sat 20:29]
 :END:
