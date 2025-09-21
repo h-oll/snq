@@ -88,8 +88,10 @@ CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
 **** Quantixium
 - Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
 ** Agenda
-*** WTC [#B] Launch the Software roadmap work
+*** TDO [#B] Launch the Software roadmap work
 :LOGBOOK:
+- State "TDO"        from "DVL"        [2025-09-21 Sun 09:38]
+- State "DVL"        from "WTC"        [2025-09-21 Sun 09:38]
 - State "WTC"        from "TDO"        [2025-09-19 Fri 12:36]
 - State "PLN"        from              [2025-09-13 Sat 16:42]
 :END:
@@ -160,10 +162,11 @@ Using GHZ states and correlations.
 
 possibilité de réfléchir à comment fournir la scalabilité et la tester.
 
-*** DNE [#A] Appeler Neil a/s Mike Vasmer
+*** (xv)                                                          :ARCHIVE:
+**** DNE [#A] Appeler Neil a/s Mike Vasmer
 CLOSED: [2024-06-03 Mon 07:21]
 :PROPERTIES:
-:ARCHIVE_TIME: 2024-10-27 Sun 22:24
+:ARCHIVE_TIME: 2025-09-21 Sun 09:36
 :ID:       ba0f8c9e-5e89-4495-9d15-c347dae2c44b
 :END:
 ** DVL [#B] [2025-09-11 Thu] Challenges and Roadmap for Quantum Information Processing Software and Algorithms
