@@ -117,10 +117,6 @@ CLOSED: [2024-06-03 Mon 07:21]
 - State "PLN"        from              [2025-09-21 Sun 10:42]
 :END:
 [[id:165a6a80-612b-4e19-ab06-2319d3ccc8ac][[2025-09-03 Wed] Atelier Hardware-Software]]
-*** PLN Questions et idées issues de l'atelier                        :ins:
-:LOGBOOK:
-- State "PLN"        from              [2025-09-21 Sun 10:40]
-:END:
 **** Projets HW + SW
 => Donc on pourrait généraliser cela lorsqu'on parle d'infrastructure et de service à un tiers. Nécessité d'avoir des projets qui permettent d'inclure le software
 
@@ -134,7 +130,18 @@ CLOSED: [2024-06-03 Mon 07:21]
 possibilité de réfléchir à comment fournir la scalabilité et la tester.
 
 
-*** TDO [#B] Launch the Software roadmap work
+*
+*** (xv)                                                          :ARCHIVE:
+**** DRP Questions et idées issues de l'atelier                         :ins:
+CLOSED: [2025-09-21 Sun 15:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-21 Sun 15:37
+:END:
+:LOGBOOK:
+- State "DRP"        from "PLN"        [2025-09-21 Sun 15:37]
+- State "PLN"        from              [2025-09-21 Sun 10:40]
+:END:
+** TDO [#B] Launch the Software roadmap work
 :LOGBOOK:
 - State "TDO"        from "DVL"        [2025-09-21 Sun 09:38]
 - State "DVL"        from "WTC"        [2025-09-21 Sun 09:38]
