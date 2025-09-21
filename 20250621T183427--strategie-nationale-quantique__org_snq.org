@@ -145,20 +145,11 @@ possibilité de réfléchir à comment fournir la scalabilité et la tester.
 - State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
 - State "PLN"        from              [2025-09-13 Sat 20:29]
 :END:
-**** general error cancellation
-:PROPERTIES:
-:ID:       c1fa3322-fba5-45a6-990e-a28a44db089d
-:END:
-[[file:~/org/armarium/20000101T000000--magister.org::*WP5][WP5]]
-[[id:c9737130-e1b9-4cb0-8c49-dd55bd4a2b20][WP5 Focus: eFTQC]]
-- 2407.06583: smart idea cite:DT24low
-- Generalized  Error Cancellation 2507.06601 cite:KSST25quantum
-
 **** Look into this Pauli operator technique
 :PROPERTIES:
 :ID:       db91d4e5-b12f-4daa-8e73-184e43141160
 :END:
-[[id:4f2555c7-4f46-444f-8a59-dbcb45834bed][WP1 Focus: Large scale emulation]]
+
 *** (xv)                                                          :ARCHIVE:
 **** PLN lire les slides de EPIQ
 :PROPERTIES:
