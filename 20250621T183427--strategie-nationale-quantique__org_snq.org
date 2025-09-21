@@ -149,7 +149,7 @@ possibilité de réfléchir à comment fournir la scalabilité et la tester.
 :PROPERTIES:
 :ID:       db91d4e5-b12f-4daa-8e73-184e43141160
 :END:
-
+[[id:4f2555c7-4f46-444f-8a59-dbcb45834bed][WP1 Focus: Large scale emulation]]
 *** (xv)                                                          :ARCHIVE:
 **** PLN lire les slides de EPIQ
 :PROPERTIES:
