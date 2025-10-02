@@ -17,6 +17,25 @@
 - State "PLN"        from              [2025-08-31 Sun 23:22]
 :END:
 ** Memoranda
+*** [2025-09-26 Fri] Reunion SGPI                                      :mtg:
+:PROPERTIES:
+:ID:       a598735c-626b-417b-9f79-af3975bdb952
+:END:
+:LOGBOOK:
+CLOCK: [2025-09-26 Fri 09:59]--[2025-09-26 Fri 12:53] =>  2:54
+:END:
+**** Presentation Neil
+- Presentation de l'initiative FALC
+- Pb double usage (MinArm, DGE)
+- Pb financement (100M a debloquer pour 2026)
+- Pb CEA avait convenu avec agence INRIA co-construction et en fait decouvre que ce n'est pas le cas
+  - Vient d'apprendre que la CSA est refusee par Skordas
+  - Donc en fait on remet ca dans EuroHPC pour la phase 1
+  - Il s'agit d'un grand challenge FTQC
+- Manque de motivation de ce qu'on veut faire
+**** Transfert Horizon -> EuroHPC
+- On demande 50-50 des maintenant. yc pour les FPA existants et les futurs SGA
+- Pense que le quantique entre dans une phase d'industrialisation
 *** [2025-06-06 Fri] Reunion de la stratégie quantique
 :LOGBOOK:
 CLOCK: [2025-06-06 Fri 09:30]--[2025-06-06 Fri 13:00] =>  3:30
