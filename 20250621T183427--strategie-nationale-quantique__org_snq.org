@@ -1,0 +1,188 @@
+#+title:      Strategie Nationale Quantique
+#+date:       [2025-06-21 Sat 18:34]
+#+filetags:   :org:snq:
+#+identifier: 20250621T183427
+#+category: snq
+
+* DVL [#D] SNQ                                                          :org:
+:PROPERTIES:
+:ID:       b328b348-ea44-4bf9-8a2a-cd290fcdd195
+:END:
+:LOGBOOK:
+- State "DVL"        from "WTC"        [2025-09-13 Sat 18:17]
+- State "WTC"        from "DNE"        [2025-09-13 Sat 18:17]
+- State "DNE"        from "WTC"        [2025-09-13 Sat 18:17]
+- State "WTC"        from "DVL"        [2025-08-31 Sun 23:43]
+- State "DVL"        from "TDO"        [2025-08-31 Sun 23:22]
+- State "PLN"        from              [2025-08-31 Sun 23:22]
+:END:
+** Memoranda
+*** [2025-09-26 Fri] Reunion SGPI                                      :mtg:
+:PROPERTIES:
+:ID:       a598735c-626b-417b-9f79-af3975bdb952
+:END:
+:LOGBOOK:
+CLOCK: [2025-09-26 Fri 09:59]--[2025-09-26 Fri 12:53] =>  2:54
+:END:
+**** Presentation Neil
+- Presentation de l'initiative FALC
+- Pb double usage (MinArm, DGE)
+- Pb financement (100M a debloquer pour 2026)
+- Pb CEA avait convenu avec agence INRIA co-construction et en fait decouvre que ce n'est pas le cas
+  - Vient d'apprendre que la CSA est refusee par Skordas
+  - Donc en fait on remet ca dans EuroHPC pour la phase 1
+  - Il s'agit d'un grand challenge FTQC
+- Manque de motivation de ce qu'on veut faire
+**** Transfert Horizon -> EuroHPC
+- On demande 50-50 des maintenant. yc pour les FPA existants et les futurs SGA
+- Pense que le quantique entre dans une phase d'industrialisation
+*** [2025-06-06 Fri] Reunion de la stratégie quantique
+:LOGBOOK:
+CLOCK: [2025-06-06 Fri 09:30]--[2025-06-06 Fri 13:00] =>  3:30
+:END:
+**** P Bonnet
+Retour sur les contributions
+
+**** O Gorceix
+Réseaux quantiques
+
+**** Cryonext
+Arret cryoconcept, perturbe le projet P4.
+
+**** Proqcima
+Commission ANR pour l'appui technique aux pahses de selection. Partage des crit`eres  et  lien avec QLoop
+
+Annonce ministere des armees France Quantum + Presence Vivatec
+
+**** FRance quantum
+Grosse delegation allemande
+
+**** HQI
+Acces aux machines pour de l'asynchrone externe au TGCC
+
+**** PEPR
+Mutualisation de Cryostats par iXBlue
+*** [2024-09-27 Fri 09:15-12:30] Réunion programme quantique SGPI
+:PROPERTIES:
+:org-gcal-managed: org
+:calendar-id: harold.ollivier@gmail.com
+:ETag:     "3449646762866000"
+:entry-id: tmvdofd7do0lgbbmvo7m9nqjfs/harold.ollivier@gmail.com
+:ID:       5064fe07-4457-4b41-bd1b-f0f1ce04001f
+:END:
+:org-gcal:
+<2024-09-27 Fri 09:15-12:30>
+:END:
+[[gnus:nnimap+research:INBOX#87cylt442i.fsf@totally-fudged-out-message-id][Email from SGPI Quantique Info: Réunion de synchronisation des programmes de la stratégie quantique]]
+*** [2025-04-04 Fri] Réunion SNQ
+:LOGBOOK:
+CLOCK: [2025-04-04 Fri 09:00]--[2025-04-04 Fri 13:23] =>  4:23
+CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
+:END:
+**** Cryonext
+**** Proxima
+- Comité ANR pour faire critères techniques de fin de phase
+- Pas d'écart ni pb anticipé sur les livrables
+- 90M budgété, 58M engagés
+- Compatibilité participation phase A Darpa -- A&B accompagnement par DGA. QBI.
+- Test et evaluation 1G sur 5 ans (Darpa) sans parler de QBI particulièrement
+**** ASIS
+- 28SiH_4: 1.5M / kg
+**** QLoop
+- Quandela: alignement roadmap pertinent, mais mise en standby. Dépendance sur choix archi faits chez eux
+- IQM: timing pas clair / welcome
+- IBM:
+  - investissement cryo CMPS IBM controle coupleurs
+  - volonté install 127 qubits sur fr
+  - Regarder Ryken
+**** Metirqs
+- Mocqua : metro composants HW pour etat solide: spec et characterisation avec des paramètres fiables
+- Question sur normalisation / participation INRIA
+*************** Sollicitation experts sur normalisation 
+:PROPERTIES:
+:ID:       c888ee73-a330-44b6-81c4-721636c237fe
+:END:
+*************** END
+- EQCBC: european qc bench committee
+**** Quantixium
+- Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
+** Agenda
+*** (xv)                                                          :ARCHIVE:
+**** DNE [#A] Appeler Neil a/s Mike Vasmer
+CLOSED: [2024-06-03 Mon 07:21]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-21 Sun 09:36
+:ID:       ba0f8c9e-5e89-4495-9d15-c347dae2c44b
+:END:
+* DVL [#B] [2025-09-11 Thu] SNQ: Challenges and Roadmap for Quantum Information Processing Software and Algorithms
+:PROPERTIES:
+:ID:       fd85085c-d8f1-467c-bd24-112f2841b6db
+:END:
+:LOGBOOK:
+- State "DVL"        from "TDO"        [2025-09-21 Sun 09:12]
+- State "TDO"        from "PLN"        [2025-09-21 Sun 09:12]
+- State "PLN"        from              [2025-09-21 Sun 09:11]
+:END:
+** Resources
+** Agenda
+
+*** PLN Changements dus a l'apparition des qLDPC + necessite d'aller plus dans le detail de l'archi et du materiel :ins:
+:LOGBOOK:
+- State "PLN"        from              [2025-09-21 Sun 10:42]
+:END:
+[[id:49502a4f-fb85-42f8-8393-3af28ecb3250][[2025-09-02 Tue] Présentation NISQ2LSQ]]
+*** PLN Idees issues de l'atelier HW/SW                               :ins:
+:LOGBOOK:
+- State "PLN"        from              [2025-09-21 Sun 10:42]
+:END:
+[[id:165a6a80-612b-4e19-ab06-2319d3ccc8ac][[2025-09-03 Wed] Atelier Hardware-Software]]
+**** Projets HW + SW
+=> Donc on pourrait généraliser cela lorsqu'on parle d'infrastructure et de service à un tiers. Nécessité d'avoir des projets qui permettent d'inclure le software
+
+[[id:42bf3b42-0062-4f1c-bb30-3e2b65da56f6][Partie 2 organisation / fonctionnement]]
+
+
+**** Outils nécessaires pour la scalabilité et la tester. Se lie au benchmark. 
+
+[[id:42bf3b42-0062-4f1c-bb30-3e2b65da56f6][Partie 2 organisation / fonctionnement]]
+
+possibilité de réfléchir à comment fournir la scalabilité et la tester.
+
+
+*
+*** (xv)                                                          :ARCHIVE:
+**** DRP Questions et idées issues de l'atelier                         :ins:
+CLOSED: [2025-09-21 Sun 15:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-21 Sun 15:37
+:END:
+:LOGBOOK:
+- State "DRP"        from "PLN"        [2025-09-21 Sun 15:37]
+- State "PLN"        from              [2025-09-21 Sun 10:40]
+:END:
+** TDO [#B] Launch the Software roadmap work
+:LOGBOOK:
+- State "TDO"        from "DVL"        [2025-09-21 Sun 09:38]
+- State "DVL"        from "WTC"        [2025-09-21 Sun 09:38]
+- State "WTC"        from "TDO"        [2025-09-19 Fri 12:36]
+- State "PLN"        from              [2025-09-13 Sat 16:42]
+:END:
+[[denote:20250912T101104][hiq-synergy-roadmap]]
+*** (xv)                                                          :ARCHIVE:
+**** PLN lire les slides de EPIQ
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-21 Sun 09:59
+:END:
+:LOGBOOK:
+- State "PLN"        from "TDO"        [2025-09-19 Fri 11:00]
+:END:
+**** DNE [#B] relire les notes des journees (PEPR, HQI)
+CLOSED: [2025-09-21 Sun 10:47]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-21 Sun 10:47
+:END:
+:LOGBOOK:
+- State "DNE"        from "TDO"        [2025-09-21 Sun 10:47]
+- State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
+- State "PLN"        from              [2025-09-13 Sat 20:29]
+:END:
