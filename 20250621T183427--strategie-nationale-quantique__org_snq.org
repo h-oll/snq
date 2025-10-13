@@ -24,15 +24,8 @@
 :LOGBOOK:
 CLOCK: [2025-09-26 Fri 09:59]--[2025-09-26 Fri 12:53] =>  2:54
 :END:
-**** Presentation Neil
-- Presentation de l'initiative FALC
-- Pb double usage (MinArm, DGE)
-- Pb financement (100M a debloquer pour 2026)
-- Pb CEA avait convenu avec agence INRIA co-construction et en fait decouvre que ce n'est pas le cas
-  - Vient d'apprendre que la CSA est refusee par Skordas
-  - Donc en fait on remet ca dans EuroHPC pour la phase 1
-  - Il s'agit d'un grand challenge FTQC
-- Manque de motivation de ce qu'on veut faire
+**** [[id:1e1827c6-bb35-438c-8788-93d3e20cb6ae][[2025-09-26 Fri] Presentation de FALQ par Neil a la reunion de la strat nat.]]
+
 **** Transfert Horizon -> EuroHPC
 - On demande 50-50 des maintenant. yc pour les FPA existants et les futurs SGA
 - Pense que le quantique entre dans une phase d'industrialisation
