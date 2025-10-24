@@ -17,6 +17,9 @@
 - State "PLN"        from              [2025-08-31 Sun 23:22]
 :END:
 ** Memoranda
+:PROPERTIES:
+:ID:       929f79c7-26c2-4b27-866f-911ea61a74cc
+:END:
 *** [2025-09-26 Fri] Reunion SGPI                                      :mtg:
 :PROPERTIES:
 :ID:       a598735c-626b-417b-9f79-af3975bdb952
@@ -25,35 +28,65 @@
 CLOCK: [2025-09-26 Fri 09:59]--[2025-09-26 Fri 12:53] =>  2:54
 :END:
 **** [[id:1e1827c6-bb35-438c-8788-93d3e20cb6ae][[2025-09-26 Fri] Presentation de FALQ par Neil a la reunion de la strat nat.]]
+:PROPERTIES:
+:ID:       88d49c4f-bc30-4324-ac37-d31af632fcf5
+:END:
 
 **** Transfert Horizon -> EuroHPC
+:PROPERTIES:
+:ID:       1fee2128-ff7f-41d7-b5b5-00290b636e58
+:END:
 - On demande 50-50 des maintenant. yc pour les FPA existants et les futurs SGA
 - Pense que le quantique entre dans une phase d'industrialisation
 *** [2025-06-06 Fri] Reunion de la stratégie quantique
+:PROPERTIES:
+:ID:       978c5c96-366c-4b7c-9351-4e0e31d676a1
+:END:
 :LOGBOOK:
 CLOCK: [2025-06-06 Fri 09:30]--[2025-06-06 Fri 13:00] =>  3:30
 :END:
 **** P Bonnet
+:PROPERTIES:
+:ID:       7c310fb1-9da3-4032-bb0f-7cfc197c450e
+:END:
 Retour sur les contributions
 
 **** O Gorceix
+:PROPERTIES:
+:ID:       b262b702-0b79-4f28-b545-081d8359e25a
+:END:
 Réseaux quantiques
 
 **** Cryonext
+:PROPERTIES:
+:ID:       0376839d-2d45-427b-926f-6a0dd919e439
+:END:
 Arret cryoconcept, perturbe le projet P4.
 
 **** Proqcima
+:PROPERTIES:
+:ID:       ccccf418-9924-4260-bbc4-009fceffc2f5
+:END:
 Commission ANR pour l'appui technique aux pahses de selection. Partage des crit`eres  et  lien avec QLoop
 
 Annonce ministere des armees France Quantum + Presence Vivatec
 
 **** FRance quantum
+:PROPERTIES:
+:ID:       5960622f-6f06-413f-887b-750f59b446b3
+:END:
 Grosse delegation allemande
 
 **** HQI
+:PROPERTIES:
+:ID:       bd75f885-3454-40ee-b14f-01ec4385d5f9
+:END:
 Acces aux machines pour de l'asynchrone externe au TGCC
 
 **** PEPR
+:PROPERTIES:
+:ID:       d9275887-c202-464d-a36a-fdc25481a53e
+:END:
 Mutualisation de Cryostats par iXBlue
 *** [2024-09-27 Fri 09:15-12:30] Réunion programme quantique SGPI
 :PROPERTIES:
@@ -68,20 +101,35 @@ Mutualisation de Cryostats par iXBlue
 :END:
 [[gnus:nnimap+research:INBOX#87cylt442i.fsf@totally-fudged-out-message-id][Email from SGPI Quantique Info: Réunion de synchronisation des programmes de la stratégie quantique]]
 *** [2025-04-04 Fri] Réunion SNQ
+:PROPERTIES:
+:ID:       9732442f-8e50-4333-b8bc-c0f93268deef
+:END:
 :LOGBOOK:
 CLOCK: [2025-04-04 Fri 09:00]--[2025-04-04 Fri 13:23] =>  4:23
 CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
 :END:
 **** Cryonext
+:PROPERTIES:
+:ID:       2a6cdc87-f2a7-4de6-9999-9d93eb85e0d6
+:END:
 **** Proxima
+:PROPERTIES:
+:ID:       88a108bd-b18f-4179-8b8b-a8bb041a2221
+:END:
 - Comité ANR pour faire critères techniques de fin de phase
 - Pas d'écart ni pb anticipé sur les livrables
 - 90M budgété, 58M engagés
 - Compatibilité participation phase A Darpa -- A&B accompagnement par DGA. QBI.
 - Test et evaluation 1G sur 5 ans (Darpa) sans parler de QBI particulièrement
 **** ASIS
+:PROPERTIES:
+:ID:       365d7210-1d65-46fb-929b-8652e7cd94b8
+:END:
 - 28SiH_4: 1.5M / kg
 **** QLoop
+:PROPERTIES:
+:ID:       99f4e4a8-73bd-4cea-81ae-a3d429293b40
+:END:
 - Quandela: alignement roadmap pertinent, mais mise en standby. Dépendance sur choix archi faits chez eux
 - IQM: timing pas clair / welcome
 - IBM:
@@ -89,6 +137,9 @@ CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
   - volonté install 127 qubits sur fr
   - Regarder Ryken
 **** Metirqs
+:PROPERTIES:
+:ID:       61750650-f7dc-4187-96be-7b13b445c3ca
+:END:
 - Mocqua : metro composants HW pour etat solide: spec et characterisation avec des paramètres fiables
 - Question sur normalisation / participation INRIA
 *************** Sollicitation experts sur normalisation 
@@ -98,9 +149,18 @@ CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
 *************** END
 - EQCBC: european qc bench committee
 **** Quantixium
+:PROPERTIES:
+:ID:       5c7d74a1-13e5-4deb-b963-43b17bf1a094
+:END:
 - Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
 ** Agenda
+:PROPERTIES:
+:ID:       46b2bd5c-9686-4c7e-b44b-ef4c2b9dc19c
+:END:
 *** (xv)                                                          :ARCHIVE:
+:PROPERTIES:
+:ID:       fe585fb1-cf2c-4280-88bf-47e9d63fbf7b
+:END:
 **** DNE [#A] Appeler Neil a/s Mike Vasmer
 CLOSED: [2024-06-03 Mon 07:21]
 :PROPERTIES:
@@ -117,25 +177,43 @@ CLOSED: [2024-06-03 Mon 07:21]
 - State "PLN"        from              [2025-09-21 Sun 09:11]
 :END:
 ** Resources
+:PROPERTIES:
+:ID:       8d1cd738-80d6-4c46-934e-31870f16f2a1
+:END:
 ** Agenda
+:PROPERTIES:
+:ID:       3d2bba1e-67a9-4c87-8764-ddd33d1482db
+:END:
 
 *** PLN Changements dus a l'apparition des qLDPC + necessite d'aller plus dans le detail de l'archi et du materiel :ins:
+:PROPERTIES:
+:ID:       1286c705-05b9-47e9-9c35-d848e8b46c5f
+:END:
 :LOGBOOK:
 - State "PLN"        from              [2025-09-21 Sun 10:42]
 :END:
 [[id:49502a4f-fb85-42f8-8393-3af28ecb3250][[2025-09-02 Tue] Présentation NISQ2LSQ]]
 *** PLN Idees issues de l'atelier HW/SW                               :ins:
+:PROPERTIES:
+:ID:       710cbc76-961b-4f4e-abe1-d3ac3dec81ec
+:END:
 :LOGBOOK:
 - State "PLN"        from              [2025-09-21 Sun 10:42]
 :END:
 [[id:165a6a80-612b-4e19-ab06-2319d3ccc8ac][[2025-09-03 Wed] Atelier Hardware-Software]]
 **** Projets HW + SW
+:PROPERTIES:
+:ID:       e0403288-01c5-45ee-97be-392214e7be49
+:END:
 => Donc on pourrait généraliser cela lorsqu'on parle d'infrastructure et de service à un tiers. Nécessité d'avoir des projets qui permettent d'inclure le software
 
 [[id:42bf3b42-0062-4f1c-bb30-3e2b65da56f6][Partie 2 organisation / fonctionnement]]
 
 
 **** Outils nécessaires pour la scalabilité et la tester. Se lie au benchmark. 
+:PROPERTIES:
+:ID:       f6830545-af5a-4c1f-b431-a00ec4bdf4c1
+:END:
 
 [[id:42bf3b42-0062-4f1c-bb30-3e2b65da56f6][Partie 2 organisation / fonctionnement]]
 
@@ -144,16 +222,23 @@ possibilité de réfléchir à comment fournir la scalabilité et la tester.
 
 *
 *** (xv)                                                          :ARCHIVE:
+:PROPERTIES:
+:ID:       a403fd3e-cf31-4345-959f-e2dc034e63c8
+:END:
 **** DRP Questions et idées issues de l'atelier                         :ins:
 CLOSED: [2025-09-21 Sun 15:37]
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-09-21 Sun 15:37
+:ID:       201bcfda-1d03-497c-91a9-b68f1987c420
 :END:
 :LOGBOOK:
 - State "DRP"        from "PLN"        [2025-09-21 Sun 15:37]
 - State "PLN"        from              [2025-09-21 Sun 10:40]
 :END:
 ** TDO [#B] Launch the Software roadmap work
+:PROPERTIES:
+:ID:       f956edf3-a0ba-4d9c-a383-da7f2da52175
+:END:
 :LOGBOOK:
 - State "TDO"        from "DVL"        [2025-09-21 Sun 09:38]
 - State "DVL"        from "WTC"        [2025-09-21 Sun 09:38]
@@ -162,9 +247,13 @@ CLOSED: [2025-09-21 Sun 15:37]
 :END:
 [[denote:20250912T101104][hiq-synergy-roadmap]]
 *** (xv)                                                          :ARCHIVE:
+:PROPERTIES:
+:ID:       585c1a66-1ab9-47d2-8327-5c41c955c92b
+:END:
 **** PLN lire les slides de EPIQ
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-09-21 Sun 09:59
+:ID:       70e27a6b-eed4-40e4-a052-a7519c85e0ba
 :END:
 :LOGBOOK:
 - State "PLN"        from "TDO"        [2025-09-19 Fri 11:00]
@@ -173,6 +262,7 @@ CLOSED: [2025-09-21 Sun 15:37]
 CLOSED: [2025-09-21 Sun 10:47]
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-09-21 Sun 10:47
+:ID:       1eed965c-e5b4-4634-be7c-4de43034cd6f
 :END:
 :LOGBOOK:
 - State "DNE"        from "TDO"        [2025-09-21 Sun 10:47]
