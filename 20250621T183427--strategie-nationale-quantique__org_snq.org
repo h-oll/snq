@@ -245,9 +245,10 @@ CLOSED: [2025-09-21 Sun 15:37]
 - State "DRP"        from "PLN"        [2025-09-21 Sun 15:37]
 - State "PLN"        from              [2025-09-21 Sun 10:40]
 :END:
-** WTC [#B] Launch the Software roadmap work
+** WTC [#C] Launch the Software roadmap work
 :PROPERTIES:
 :ID:       f956edf3-a0ba-4d9c-a383-da7f2da52175
+:BACKLINKS: [[id:97a04010-a310-411d-b5d9-3c3b854f1e07][Mention software road mapping?]]
 :END:
 :LOGBOOK:
 - State "WTC"        from "TDO"        [2025-12-17 Wed 06:51]
