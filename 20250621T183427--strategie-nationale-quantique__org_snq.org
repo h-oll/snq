@@ -1,4 +1,4 @@
-#+title:      Strategie Nationale Quantique
+#+title:      Strategie Nationale Quantique (snq)
 #+date:       [2025-06-21 Sat 18:34]
 #+filetags:   :org:snq:
 #+identifier: 20250621T183427
