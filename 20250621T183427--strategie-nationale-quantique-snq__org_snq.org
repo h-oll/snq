@@ -4,7 +4,7 @@
 #+identifier: 20250621T183427
 #+category: snq
 
-* DVL [#D] SNQ                                                          :org:
+* DVL SNQ                                                               :org:
 :PROPERTIES:
 :ID:       b328b348-ea44-4bf9-8a2a-cd290fcdd195
 :END:
@@ -177,24 +177,16 @@ CLOSED: [2024-06-03 Mon 07:21]
 :ARCHIVE_TIME: 2025-09-21 Sun 09:36
 :ID:       ba0f8c9e-5e89-4495-9d15-c347dae2c44b
 :END:
-* DVL [#B] [2025-09-11 Thu] SNQ: Challenges and Roadmap for Quantum Information Processing Software and Algorithms
+**** DRP Questions et idées issues de l'atelier                         :ins:
+CLOSED: [2025-09-21 Sun 15:37]
 :PROPERTIES:
-:ID:       fd85085c-d8f1-467c-bd24-112f2841b6db
+:ARCHIVE_TIME: 2025-09-21 Sun 15:37
+:ID:       201bcfda-1d03-497c-91a9-b68f1987c420
 :END:
 :LOGBOOK:
-- State "DVL"        from "TDO"        [2025-09-21 Sun 09:12]
-- State "TDO"        from "PLN"        [2025-09-21 Sun 09:12]
-- State "PLN"        from              [2025-09-21 Sun 09:11]
+- State "DRP"        from "PLN"        [2025-09-21 Sun 15:37]
+- State "PLN"        from              [2025-09-21 Sun 10:40]
 :END:
-** Resources
-:PROPERTIES:
-:ID:       8d1cd738-80d6-4c46-934e-31870f16f2a1
-:END:
-** Agenda
-:PROPERTIES:
-:ID:       3d2bba1e-67a9-4c87-8764-ddd33d1482db
-:END:
-
 *** PLN Changements dus a l'apparition des qLDPC + necessite d'aller plus dans le detail de l'archi et du materiel :ins:
 :PROPERTIES:
 :ID:       1286c705-05b9-47e9-9c35-d848e8b46c5f
@@ -231,21 +223,7 @@ possibilité de réfléchir à comment fournir la scalabilité et la tester.
 
 
 *
-*** (xv)                                                          :ARCHIVE:
-:PROPERTIES:
-:ID:       a403fd3e-cf31-4345-959f-e2dc034e63c8
-:END:
-**** DRP Questions et idées issues de l'atelier                         :ins:
-CLOSED: [2025-09-21 Sun 15:37]
-:PROPERTIES:
-:ARCHIVE_TIME: 2025-09-21 Sun 15:37
-:ID:       201bcfda-1d03-497c-91a9-b68f1987c420
-:END:
-:LOGBOOK:
-- State "DRP"        from "PLN"        [2025-09-21 Sun 15:37]
-- State "PLN"        from              [2025-09-21 Sun 10:40]
-:END:
-** WTC [#C] Launch the Software roadmap work
+*** WTC [#C] Launch the Software roadmap work
 :PROPERTIES:
 :ID:       f956edf3-a0ba-4d9c-a383-da7f2da52175
 :BACKLINKS: [[id:97a04010-a310-411d-b5d9-3c3b854f1e07][Mention software road mapping?]]
@@ -258,11 +236,11 @@ CLOSED: [2025-09-21 Sun 15:37]
 - State "PLN"        from              [2025-09-13 Sat 16:42]
 :END:
 [[denote:20250912T101104][hiq-synergy-roadmap]]
-*** (xv)                                                          :ARCHIVE:
+**** (xv)                                                          :ARCHIVE:
 :PROPERTIES:
 :ID:       585c1a66-1ab9-47d2-8327-5c41c955c92b
 :END:
-**** PLN lire les slides de EPIQ
+***** PLN lire les slides de EPIQ
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-09-21 Sun 09:59
 :ID:       70e27a6b-eed4-40e4-a052-a7519c85e0ba
@@ -270,7 +248,7 @@ CLOSED: [2025-09-21 Sun 15:37]
 :LOGBOOK:
 - State "PLN"        from "TDO"        [2025-09-19 Fri 11:00]
 :END:
-**** DNE [#B] relire les notes des journees (PEPR, HQI)
+***** DNE [#B] relire les notes des journees (PEPR, HQI)
 CLOSED: [2025-09-21 Sun 10:47]
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-09-21 Sun 10:47
@@ -281,3 +259,4 @@ CLOSED: [2025-09-21 Sun 10:47]
 - State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
 - State "PLN"        from              [2025-09-13 Sat 20:29]
 :END:
+
