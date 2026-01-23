@@ -142,7 +142,7 @@ SCHEDULED: <2026-01-23 Fri 08:00-10:00 ++1m -3d>
 - Avantage quantique mais pour un pb d'optim. "naturel"
 - Travail notamment suite au recrutement d'un PhD finance par HQI (qui venait d'un projet  ANR finance precedemment, theorique).
 
-*** [2025-11-28 Fri] Reunion SNQ                                       :mtg:
+*** [2025-11-28 Fri] Reunion SNQ                                      :mtg:
 :LOGBOOK:
 CLOCK: [2025-11-28 Fri 08:30]--[2025-11-28 Fri 12:30] =>  4:00
 :END:
@@ -165,7 +165,7 @@ CLOCK: [2025-09-26 Fri 09:59]--[2025-09-26 Fri 12:53] =>  2:54
 :END:
 - On demande 50-50 des maintenant. yc pour les FPA existants et les futurs SGA
 - Pense que le quantique entre dans une phase d'industrialisation
-*** [2025-06-06 Fri] Reunion de la stratégie quantique
+*** [2025-06-06 Fri] Reunion SNQ                                      :mtg:
 :PROPERTIES:
 :ID:       978c5c96-366c-4b7c-9351-4e0e31d676a1
 :END:
@@ -215,7 +215,7 @@ Acces aux machines pour de l'asynchrone externe au TGCC
 :ID:       d9275887-c202-464d-a36a-fdc25481a53e
 :END:
 Mutualisation de Cryostats par iXBlue
-*** [2024-09-27 Fri] Réunion programme quantique SGPI
+*** [2024-09-27 Fri] Réunion SNQ                                      :mtg:
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: harold.ollivier@gmail.com
@@ -227,7 +227,7 @@ Mutualisation de Cryostats par iXBlue
 <2024-09-27 Fri 09:15-12:30>
 :END:
 [[gnus:nnimap+research:INBOX#87cylt442i.fsf@totally-fudged-out-message-id][Email from SGPI Quantique Info: Réunion de synchronisation des programmes de la stratégie quantique]]
-*** [2025-04-04 Fri] Réunion SNQ
+*** [2025-04-04 Fri] Réunion SNQ                                      :mtg:
 :PROPERTIES:
 :ID:       9732442f-8e50-4333-b8bc-c0f93268deef
 :END:
