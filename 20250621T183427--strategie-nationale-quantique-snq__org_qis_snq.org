@@ -133,7 +133,7 @@ SCHEDULED: <2026-01-23 Fri 08:00-10:00 ++1m -3d>
 - State "DNE"        from "TDO"        [2026-01-22 Thu 17:29]
 :END:
 <%%(diary-float '("january" "march" "may" "july" "september" "november") 5 4 2026) 09:15-12:30>
-*** [2026-01-23 Fri]
+*** [2026-01-23 Fri] Reunion SNQ                                      :mtg:
 **** Intervention HQI
 - Outils de cryptanalyse
 - SIS resolu grace a la resolution d'un version quantique de LWE.
@@ -147,8 +147,7 @@ SCHEDULED: <2026-01-23 Fri 08:00-10:00 ++1m -3d>
 CLOCK: [2025-11-28 Fri 08:30]--[2025-11-28 Fri 12:30] =>  4:00
 :END:
 
-
-*** [2025-09-26 Fri] Reunion SGPI                                      :mtg:
+*** [2025-09-26 Fri] Reunion SNQ                                      :mtg:
 :PROPERTIES:
 :ID:       a598735c-626b-417b-9f79-af3975bdb952
 :END:
