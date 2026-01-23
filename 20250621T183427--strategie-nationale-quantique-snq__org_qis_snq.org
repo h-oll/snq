@@ -20,6 +20,14 @@
 :PROPERTIES:
 :ID:       929f79c7-26c2-4b27-866f-911ea61a74cc
 :END:
+*** Intervention HQI
+- Outils de cryptanalyse
+- SIS resolu grace a la resolution d'un version quantique de LWE.
+- Algo efficace pour resoudre SIS.
+- Ensuite utilisent la meme demearche pour resoudre des versions de LWE structurees (donc plus crypto) et on resout un SIS qui correspond a un pb d'optim interpol polynomial
+- Avantage quantique mais pour un pb d'optim. "naturel"
+- Travail notamment suite au recrutement d'un PhD finance par HQI (qui venait d'un projet  ANR finance precedemment, theorique).
+
 *** [2025-11-28 Fri] Reunion SNQ                                       :mtg:
 :LOGBOOK:
 CLOCK: [2025-11-28 Fri 08:30]--[2025-11-28 Fri 12:30] =>  4:00
@@ -259,4 +267,15 @@ CLOSED: [2025-09-21 Sun 10:47]
 - State "TDO"        from "PLN"        [2025-09-19 Fri 12:38]
 - State "PLN"        from              [2025-09-13 Sat 20:29]
 :END:
-
+** TDO Sync SNQ
+SCHEDULED: <2026-01-23 Fri 08:00-10:00 ++1m -3d>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2026-01-21 Wed 08:00]
+:LOGGING: DNE(!)
+:ID:       0a75bd10-9d47-46a2-8ee6-fca0f76f2b86
+:END:
+:LOGBOOK:
+- State "DNE"        from "TDO"        [2026-01-22 Thu 17:29]
+:END:
+<%%(diary-float '("january" "march" "may" "july" "september" "november") 5 4 2026) 09:15-12:30>
