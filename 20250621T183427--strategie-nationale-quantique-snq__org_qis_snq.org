@@ -7,6 +7,7 @@
 * DVL SNQ                                                               :org:
 :PROPERTIES:
 :ID:       b328b348-ea44-4bf9-8a2a-cd290fcdd195
+:BACKLINKS: [[id:acfe0d01-a6d7-4f8f-8592-237edf8f55f3][Organizations]]
 :END:
 :LOGBOOK:
 - State "DVL"        from "WTC"        [2025-09-13 Sat 18:17]
@@ -84,7 +85,6 @@ CLOSED: [2025-09-21 Sun 15:37]
 possibilité de réfléchir à comment fournir la scalabilité et la tester.
 
 
-*
 *** WTC [#C] Launch the Software roadmap work
 :PROPERTIES:
 :ID:       f956edf3-a0ba-4d9c-a383-da7f2da52175
@@ -135,6 +135,9 @@ SCHEDULED: <2026-03-27 Fri 08:00-10:00 ++2m -3d>
 :END:
 <%%(diary-float '("january" "march" "may" "july" "september" "november") 5 4 2026) 09:15-12:30>
 *** [2026-01-23 Fri] Reunion SNQ                                      :mtg:
+:LOGBOOK:
+CLOCK: [2026-01-23 Fri 09:15]--[2026-01-23 Fri 12:45] =>  3:30
+:END:
 **** Intervention HQI
 - Outils de cryptanalyse
 - SIS resolu grace a la resolution d'un version quantique de LWE.
@@ -142,7 +145,10 @@ SCHEDULED: <2026-03-27 Fri 08:00-10:00 ++2m -3d>
 - Ensuite utilisent la meme demearche pour resoudre des versions de LWE structurees (donc plus crypto) et on resout un SIS qui correspond a un pb d'optim interpol polynomial
 - Avantage quantique mais pour un pb d'optim. "naturel"
 - Travail notamment suite au recrutement d'un PhD finance par HQI (qui venait d'un projet  ANR finance precedemment, theorique).
-
+**** Faire remonter les sujets sensibles en matiere quantique a/s FSD / HFDS
+:PROPERTIES:
+:ID:       c8fae8d0-852a-4f71-9f3c-d5c74b241769
+:END:
 *** [2025-11-28 Fri] Reunion SNQ                                      :mtg:
 :LOGBOOK:
 CLOCK: [2025-11-28 Fri 08:30]--[2025-11-28 Fri 12:30] =>  4:00
