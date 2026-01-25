@@ -287,3 +287,10 @@ CLOCK: [2025-04-04 Fri 05:30]--[2025-04-04 Fri 07:30] =>  2:00
 :ID:       5c7d74a1-13e5-4deb-b963-43b17bf1a094
 :END:
 - Necessaire d'avoir déjà un financemen de la part du  partenaire, et intervient en remboursement
+
+*** [2026-03-27 Fri] Réunion SNQ
+**** TDO Remettre un couche sur DQI / Andre a QIP
+:PROPERTIES:
+:ID:       d7d3b297-6ce9-4b34-90ad-9ab7344320d5
+:END:
+[[mu4e:msgid:87h5s91t4b.fsf@inria.fr][Re: v2 HQI]]
